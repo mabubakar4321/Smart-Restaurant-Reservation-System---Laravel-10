@@ -153,7 +153,7 @@
         <ul class="navbar-nav ms-auto me-3 mb-2 mb-lg-0">
            @auth
     <li class="nav-item">
-      <a class="nav-link" href="#contact">Welcome , {{ Auth::user()->name }}</a>
+      <a class="nav-link" href="#contact">Welcome Sir, {{ Auth::user()->name }}</a>
     </li>
 @endauth
 
