@@ -21,7 +21,7 @@
 
 ## 🚀 About the Project  
 
-The **Restaurant Reservation System** is a modern web application built with **Laravel 12** that allows restaurants to **manage table reservations, customers, payments, and availability** with ease.  
+The **Restaurant Reservation System** is a modern web application built with **Laravel 10** that allows restaurants to **manage table reservations, customers, payments, and availability** with ease.  
 
 ✅ Built for **scalability** and **performance**  
 ✅ Provides **admin dashboard** for restaurant owners  
