@@ -37,16 +37,16 @@ The **Restaurant Reservation System** is a modern web application built with **L
 - 💳 **Payments & Invoices**  
 - 📊 **Admin Dashboard with Analytics**  
 - 📱 **Mobile-Friendly UI**  
-- 🔔 **Email Notifications for Reservations**  
+ 
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Backend:** Laravel 12 (PHP 8+)  
-- **Frontend:** Blade, Bootstrap/Tailwind  
+- **Backend:** Laravel 10 (PHP 8+)  
+- **Frontend:** Blade, Bootstrap HTML CSS 
 - **Database:** MySQL  
-- **Authentication:** Laravel Auth  
+- **Authentication:** Custom Laravel Auth  
 - **Others:** Eloquent ORM, Laravel Queues  
 
 ---
@@ -74,3 +74,12 @@ php artisan migrate
 
 # Start local server
 php artisan serve
+
+#Demo Credentials
+for User Login:
+waseem@gmail.com
+12345678
+
+for Admin Login:
+Gmail: a@gmail.com
+Password: 12345678
